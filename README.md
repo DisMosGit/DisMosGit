@@ -1,12 +1,3 @@
-&lt;h1 align="left"&gt;Hello, I'm [Your Name]&lt;/h1&gt;
-&lt;h3 align="left"&gt;Backend Developer specializing in Python & Scalable Systems&lt;/h3&gt;
-
-&lt;p align="left"&gt;
-  &lt;a href="mailto:your.email@example.com"&gt;Email&lt;/a&gt; •
-  &lt;a href="https://linkedin.com/in/yourprofile"&gt;LinkedIn&lt;/a&gt; •
-  &lt;a href="https://your-portfolio.com"&gt;Portfolio&lt;/a&gt;
-&lt;/p&gt;
-
 ---
 
 ## About
@@ -73,13 +64,5 @@ ETL pipeline processing 50GB+ daily datasets with automated quality checks and a
 
 ## Contact
 
-I'm currently open to full-time roles and freelance collaborations.
-
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **Availability:** Immediate / 2 weeks notice
-
----
-
-&lt;p align="left"&gt;
-  &lt;sub&gt;Last updated: January 2026&lt;/sub&gt;
-&lt;/p&gt;

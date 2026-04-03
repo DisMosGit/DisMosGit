@@ -1,6 +1,13 @@
 ## 🛰️ Geospatial Systems Engineer
 
 **Python · Go · PostGIS · Cloud-Native**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 Building data-intensive platforms where maps meet infrastructure. I specialize in translating complex spatial domains-satellite imagery, precision agriculture, sensor networks-into scalable, production-grade systems.
 

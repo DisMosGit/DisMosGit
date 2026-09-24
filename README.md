@@ -42,15 +42,15 @@ I design systems end-to-end — from database schema and services to team workfl
 ---
 
 ### Tech stack
-**Languages:** Go · Python · SQL
-**Backend:** Django/DRF · FastAPI · Litestar · ASGI · Django Channels · Celery · Fiber · REST · WebSocket · gRPC
-**Async & queues:** asyncio · Redis · RabbitMQ · Kafka
-**Data:** PostgreSQL · PostGIS · ClickHouse · PgBouncer · Redis
-**GIS:** GDAL · Rasterio · Shapely · GeoPandas · QGIS · COG · MBTiles
-**Infra:** Docker · Docker Swarm · Kubernetes · GitLab CI/CD · Ansible · Linux · MinIO/S3
-**Observability:** Vector · ClickHouse · Superset
-**AI tooling:** LLM · RAG · MCP · prompt engineering
-**Management:** Team Lead · code review · onboarding · interviews · C4/UML/BPMN
+- **Languages:** Go · Python · SQL
+- **Backend:** Django/DRF · FastAPI · Litestar · ASGI · Django Channels · Celery · Fiber · REST · WebSocket · gRPC
+- **Async & queues:** asyncio · Redis · RabbitMQ · Kafka
+- **Data:** PostgreSQL · PostGIS · ClickHouse · PgBouncer · Redis
+- **GIS:** GDAL · Rasterio · Shapely · GeoPandas · QGIS · COG · MBTiles
+- **Infra:** Docker · Docker Swarm · Kubernetes · GitLab CI/CD · Ansible · Linux · MinIO/S3
+- **Observability:** Vector · ClickHouse · Superset
+- **AI tooling:** LLM · RAG · MCP · prompt engineering
+- **Management:** Team Lead · code review · onboarding · interviews · C4/UML/BPMN
 
 ---
 
